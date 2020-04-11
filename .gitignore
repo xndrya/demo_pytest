@@ -109,3 +109,4 @@ venv.bak/
 .idea/workspace.xml
 /geckodriver.log
 /.idea/dictionaries/X.xml
+/.idea/
